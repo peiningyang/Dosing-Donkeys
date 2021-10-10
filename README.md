@@ -4,4 +4,4 @@ This is a ShinyApp that allows users to enter the length, girth, height, Body Co
 
 Users can refer to the lower bounds of the 95% confidence interval of the estimation for fear of overdosing. Users will also be alerted if the length, girth or height entered is outside of the normal range. 
 
-![donkey](https://github.com/peiningyang/Dosing-Donkeys/blob/main/www/smiling-donkey.png)
+<img src="https://github.com/peiningyang/Dosing-Donkeys/blob/main/www/smiling-donkey.png" width = "50" height = "50" align = "center">
